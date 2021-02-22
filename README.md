@@ -2,7 +2,7 @@
 
 # ***Phase 1***
 
-This program***(wff-evaluator.cpp)*** receives two logical statements **WFF** in the form of two strings, if the two statements are equivalent, the output will be one, otherwise it will be zero.
+This program ***(wff-evaluator.cpp)*** receives two logical statements **WFF** in the form of two strings, if the two statements are equivalent, the output will be one, otherwise it will be zero.
 
 **Remark:**
 * Only lowercase Latin letters can be used as variables.
