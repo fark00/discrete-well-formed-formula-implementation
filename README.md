@@ -7,7 +7,7 @@ This program receives two logical statements **WFF** in the form of two strings,
 **Remark:**
 * Only lowercase Latin letters can be used as variables.
 * T is used to indicate the always true statement and F is used to represent the always false statement.
-* Well-known operators for this program are: {\/, /\, ~, ->, <->}
+* Well-known operators for this program are: {\\/, /\\, ~, ->, <->}
 
 **Requirement:**
 I used visual studio 2019.
