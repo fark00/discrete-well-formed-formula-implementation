@@ -20,3 +20,6 @@ In this phase I have implemented the program ***wff-2-postfix-calculator.cpp*** 
 **Remark:**
 * All numbers in the input are natural numbers from one to nine.
 * The program has the ability to work with five operators +, -, *, / and ^.
+
+![alt text](https://github.com/fark00/discrete-well-formed-formula-implementation/blob/main/wff2postfix-run.png?raw=true)
+
