@@ -25,4 +25,4 @@ In this phase I have implemented the program ***wff-2-postfix-calculator.cpp*** 
 ![alt text](https://github.com/fark00/discrete-well-formed-formula-implementation/blob/main/wff2postfix-run.png?raw=true)
 
 **Requirement:**
-I used Visual Studio Code.
+I used Visual Studio Code 1.53.2.
