@@ -27,11 +27,20 @@ In this phase I have implemented the program ***wff-2-postfix-calculator.cpp*** 
 **Requirement:**
 I used Visual Studio Code 1.53.2.
 
-## Support:
 
+## Support
 
-***Contact me @:***
+**Contact me @:**
 
-e-mail: farzanehkoohestani2000@gmail.com
+e-mail:
 
-telegram id: @farzaneh_koohestani
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/farkoo/CV-with-Matlab/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/farkoo)
